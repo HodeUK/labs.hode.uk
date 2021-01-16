@@ -21,10 +21,10 @@ body {
     height: 50px;
 }
 
-.hode-publish {
-    color: lightsalmon;
+.hode-in-pre {
+    color: rgb(241, 132, 89);
 }
 
-.hode-in-pre {
-    color: lightskyblue;
+.hode-publish {
+    color: rgb(108, 175, 218);
 }
