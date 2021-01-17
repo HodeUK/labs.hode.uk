@@ -29,4 +29,10 @@
         <priority>0.6</priority>
     </url>
 
+    <url>
+        <loc>https://todo.hode.uk</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
 </urlset>
