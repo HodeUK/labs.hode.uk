@@ -2,6 +2,19 @@ body {
     background: #eee;
 }
 
+.hode-bg-colour {
+    background-color: #fff!important;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        background: #C0C0C0;
+    }
+    .hode-bg-colour {
+        background-color: #d8d8d8!important;
+    }
+}
+
 .filter {
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -13,7 +26,7 @@ body {
 }
 
 .link-center {
-    text-align: center!important
+    text-align: center!important;
 }
 
 .footer {
